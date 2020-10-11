@@ -20,7 +20,7 @@ with the data structures in WearhouseManager.h
   
 The general view of the system in action:
 
-![This was supposed to be an image](https://github.com/andreibogdanflorea/Warehouse-Manager/image.jpg?raw=true)
+![This was supposed to be an image](https://raw.githubusercontent.com/andreibogdanflorea/Warehouse-Manager/main/image.jpg)
 
 ## How to use ##
 Firstly, create the wearhouse and parkinglot files described previously and run the app in the terminal with:
